@@ -27,7 +27,7 @@ always @(*) begin
                 3'b101: begin
                     if (funct7 == 7'b0100000)
                         alu_ctrl = 4'b0111; // SRA
-                    else
+                    else 
                         alu_ctrl = 4'b0110; // SRL
                 end
 

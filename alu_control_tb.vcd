@@ -1,0 +1,128 @@
+$date
+	Fri Jun 19 01:40:01 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module alu_control_tb $end
+$var wire 4 ! alu_ctrl [3:0] $end
+$var reg 3 " funct3 [2:0] $end
+$var reg 7 # funct7 [6:0] $end
+$var reg 7 $ opcode [6:0] $end
+$scope module uut $end
+$var wire 3 % funct3 [2:0] $end
+$var wire 7 & funct7 [6:0] $end
+$var wire 7 ' opcode [6:0] $end
+$var reg 4 ( alu_ctrl [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#10000
+b110011 $
+b110011 '
+#20000
+b1 !
+b1 (
+b100000 #
+b100000 &
+#30000
+b10 !
+b10 (
+b0 #
+b0 &
+b111 "
+b111 %
+#40000
+b11 !
+b11 (
+b110 "
+b110 %
+#50000
+b100 !
+b100 (
+b100 "
+b100 %
+#60000
+b101 !
+b101 (
+b1 "
+b1 %
+#70000
+b110 !
+b110 (
+b101 "
+b101 %
+#80000
+b111 !
+b111 (
+b100000 #
+b100000 &
+#90000
+b0 !
+b0 (
+b0 #
+b0 &
+b0 "
+b0 %
+b10011 $
+b10011 '
+#100000
+b111 !
+b111 (
+b100000 #
+b100000 &
+b101 "
+b101 %
+#110000
+b0 !
+b0 (
+b0 #
+b0 &
+b10 "
+b10 %
+b11 $
+b11 '
+#120000
+b100011 $
+b100011 '
+#130000
+b1 !
+b1 (
+b0 "
+b0 %
+b1100011 $
+b1100011 '
+#140000
+b1010 !
+b1010 (
+b110111 $
+b110111 '
+#150000
+b0 !
+b0 (
+b10111 $
+b10111 '
+#160000
+b1101111 $
+b1101111 '
+#170000
+b1100111 $
+b1100111 '
+#190000
