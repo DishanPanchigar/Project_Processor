@@ -11,7 +11,7 @@ section built from real issues encountered while bringing this core up.
 
 For the complete instruction encoding reference (opcodes, funct3/funct7
 tables, immediate formats, and a step-by-step "how do I hand-assemble an
-instruction" tutorial), see **`ISA_Documentation.md`** in this same folder.
+instruction" tutorial), see **`ISA_Documentation.md`** in **`Docs`** folder.
 That document is the one you want open beside you while writing test
 programs.
 

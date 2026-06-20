@@ -1,6 +1,0 @@
-What I want in my Processor?
-- Pipelined Architecture
-- Follows RISCV ISA
-- Versatile / Compatible with Market
-- Support for 2008 IEEE-754 floating-point standards
-- Variable-length Instructions
