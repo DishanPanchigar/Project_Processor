@@ -96,7 +96,7 @@ five of them (no `R4`-type, which is only used by some floating-point
 extensions this core doesn't have).
 
 ```
- 31        25 24      20 19    15 14    12 11         7 6       0
+ 31        25 24     20 19     15 14    12 11         7 6       0
 ┌────────────┬─────────┬─────────┬────────┬────────────┬────────┐
 │  funct7    │   rs2   │   rs1   │ funct3 │     rd     │ opcode │   R-type
 ├────────────┴─────────┼─────────┼────────┼────────────┼────────┤
