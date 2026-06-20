@@ -1,4 +1,4 @@
-# Project Processor — A 5-Stage Pipelined RV64I CPU Core
+# Project KreaRV64I — A 5-Stage Pipelined RV64I CPU Core
 
 A synthesizable Verilog implementation of a 64-bit RISC-V (RV64I base integer
 subset) CPU, built as a classic 5-stage pipeline (Fetch → Decode → Execute →
