@@ -149,6 +149,9 @@ zeroed on the same edge `PC` jumps to its new target).
 
 ```
 Project_Processor/
+├── Docs/
+│   └── (user-manuals/Instructions/documentations)
+│ 
 ├── RTL/
 │   ├── ALU64.v                  64-bit ALU (add/sub/logic/shift/compare/pass)
 │   ├── ALU_control.v            ALUOp + funct3/funct7 → 4-bit ALU control code
